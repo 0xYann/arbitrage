@@ -1,0 +1,14 @@
+{
+  "pubkey": "cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG",
+  "account": {
+    "lamports": 1151507,
+    "data": [
+      "AgAAAIzRPY+wyFuhSu/8pu7IeZ90WBbMZjY4MGAVjuDHRwQk",
+      "base64"
+    ],
+    "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
+    "executable": true,
+    "rentEpoch": 18446744073709551615,
+    "space": 36
+  }
+}
